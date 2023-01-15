@@ -86,7 +86,9 @@ header style start
     justify-content: space-between;
     margin-bottom: 20px;
 }
-
+.nav ul li a{
+    padding: 8px;
+}
 .nav .logo {
     color: var(--dark-01);
     font-size: 25px;
